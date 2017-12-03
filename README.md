@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="https://github.com/chenz4027/Tic-Tac-Toe/blob/master/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Merriweather:400,700" rel="stylesheet">
 
 	<title>Tic Tac Toe</title>
